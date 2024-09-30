@@ -1,5 +1,7 @@
 # Ecommerce Sales Analysis Dashboard -- Microsoft Excel
 
+![Ecommerce Sales Dashboard](./Ecommerce.png)
+
 
 ## Overview
 This project is an interactive **E-commerce Sales Analysis Dashboard** built using **Microsoft Excel**. The dashboard provides insights into sales, profit, and category-wise performance over different time periods and customer segments.
